@@ -29,6 +29,7 @@ def run_multiprocessing():
 
     print(f"🚀 프로세스 걸린 시간: {time.time() - start:.2f}초")
 
+
 ### 🚀 실행
 if __name__ == '__main__':
     run_threading()
